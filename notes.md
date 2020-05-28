@@ -1,0 +1,8 @@
+- Downloaded data for excel work, saved it to folder called "craftingdigh".
+- Copied and pasted the url into voyant tools.
+- Copying the link and pasting it into voyant tools did not work, so I had to download the link and upload it.
+- Here is the note for my corpus ID: ea3ac9f0c7fa27331793c83984ce3b7f. Here is the url: https://voyant-tools.org/?corpus=ea3ac9f0c7fa27331793c83984ce3b7f
+- Clicking on the Terms table, and then clicking on words in there gives me a line graph of how much they are used throughout each part of the text.
+- I found it pretty cool, clicking on a part in the line graph and it showing me the last five words and the next five words surrounding the one word I was focused on.
+- I can not only look through that, but I can click on "phrases" to look at a list of every way my term was worded in a sentence, almost like my 'f3" word search ability on windows.
+- 
