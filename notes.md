@@ -5,5 +5,4 @@
 - Clicking on the Terms table, and then clicking on words in there gives me a line graph of how much they are used throughout each part of the text.
 - I found it pretty cool, clicking on a part in the line graph and it showing me the last five words and the next five words surrounding the one word I was focused on.
 - I can not only look through that, but I can click on "phrases" to look at a list of every way my term was worded in a sentence, almost like my 'f3" word search ability on windows.
-- I am not sure how else to add this url to github seeing as it is not a file, I will paste it here:
-
+- I am not sure how else to add this url to github seeing as it is not a file, I will paste it here:<iframe style='width: 305px; height: 475px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=ea3ac9f0c7fa27331793c83984ce3b7f'></iframe>
