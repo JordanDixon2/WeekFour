@@ -11,4 +11,4 @@
 - Antconc is really easy to use, it is a lot like voyant tools I just worked with. 
 - I pasted some articles into antconc, search for words, and it gave me every time that word comes up in every article I pasted, as well as the 2nd, 3rd, and 4th words that come up after it. I can also play with the options to show graphs similar to those on voyant, as well as get numbers on how many times a word or word combo shows up in each and every text file.
 - Moving on to topic models, I tried downloading the topicmodelingtool.zip for windows, and I cannot extract the files from the zipped folder because my computer says the folder I am downloading is empty. This is very strange and I have no idea how to fix this so I will wait for Dr. Graham for help on this one as well.
-- 
+- FOR DR. GRAHAM, this is the html snippet for voyant: <iframe style='width: 305px; height: 475px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=ea3ac9f0c7fa27331793c83984ce3b7f'></iframe>
