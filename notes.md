@@ -1,4 +1,5 @@
 - Downloaded data for excel work, saved it to folder called "craftingdigh".
+- Whenever I tried to place the excel information into excel, all of the information was clumped together and I could not target any columns, even after trying different settings to make sure the separators were working, I will come back to this if I have time, will move on for now.
 - Copied and pasted the url into voyant tools.
 - Copying the link and pasting it into voyant tools did not work, so I had to download the link and upload it.
 - Here is the note for my corpus ID: ea3ac9f0c7fa27331793c83984ce3b7f. Here is the url: https://voyant-tools.org/?corpus=ea3ac9f0c7fa27331793c83984ce3b7f
@@ -10,5 +11,6 @@
 - Downloaded Antconc immediately, was literally one step of clicking on the download button through the links provided by Dr. Graham.
 - Antconc is really easy to use, it is a lot like voyant tools I just worked with. 
 - I pasted some articles into antconc, search for words, and it gave me every time that word comes up in every article I pasted, as well as the 2nd, 3rd, and 4th words that come up after it. I can also play with the options to show graphs similar to those on voyant, as well as get numbers on how many times a word or word combo shows up in each and every text file.
-- Moving on to topic models, I tried downloading the topicmodelingtool.zip for windows, and I cannot extract the files from the zipped folder because my computer says the folder I am downloading is empty. This is very strange and I have no idea how to fix this so I will wait for Dr. Graham for help on this one as well.
+- Moving on to topic models, I tried downloading the topicmodelingtool.zip for windows, and I cannot extract the files from the zipped folder because my computer says the folder I am downloading is empty. 
 - FOR DR. GRAHAM, this is the html snippet for voyant: <iframe style='width: 305px; height: 475px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=ea3ac9f0c7fa27331793c83984ce3b7f'></iframe>
+- Learned from Dr. Graham I do not possess the capability to actually make that interactable widget.
